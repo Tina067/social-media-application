@@ -1,0 +1,1 @@
+export const baseUrl = `https://insta-backend-1-9h9a.onrender.com`;
